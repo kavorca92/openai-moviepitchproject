@@ -1,4 +1,4 @@
-# co69942d6b22db314a32431fd
+Openai movie pitch project
 
 Quick start:
 
